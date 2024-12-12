@@ -38,4 +38,4 @@ with open(test_path, "w", encoding="utf-8") as file:
 
 total, average = total_salary(test_path)
 print(f"Загальна сума заробітної плати: {total}, Середня заробітна плата: {average}")
-# капец 
+# капец
